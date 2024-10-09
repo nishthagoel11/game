@@ -97,9 +97,9 @@ a:visited {
 }
 
 .mole {
-    content: url("/imgs/mole.png");
+    content: url("mole.png");
 }
 
 .whack {
-    content: url("/imgs/whack.png");
+    content: url("whack.png");
 }
